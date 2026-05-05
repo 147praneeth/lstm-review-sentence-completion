@@ -12,7 +12,7 @@ It allows users to interactively construct reviews with AI-powered suggestions a
 
 ## 🖥️ Demo Interface
 
-![App UI](./Demo2.jpeg)
+![App UI](./Demo2.png)
 
 ---
 
